@@ -1,0 +1,6 @@
+{
+  "name": "Kasvora",
+  "description": "Sistem pencatatan arus kas pribadi & usaha kecil modern dengan tampilan premium, budget, target tabungan, kalender, hutang piutang, dan analisis grafik lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
